@@ -1,0 +1,6 @@
+{
+  "name": "build_dagger",
+  "engineVersion": "v0.13.7",
+  "sdk": "python",
+  "source": "."
+}
